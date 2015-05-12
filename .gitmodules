@@ -1,0 +1,6 @@
+[submodule "openplatform-database"]
+	path = openplatform-database
+	url = https://github.com/lumesselabs/openplatform-database
+[submodule "openplatform-talentlink"]
+	path = openplatform-talentlink
+	url = https://github.com/lumesselabs/openplatform-talentlink
